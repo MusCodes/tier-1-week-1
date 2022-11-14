@@ -1,0 +1,25 @@
+
+body {background-color: coral;}
+
+img {
+    border: 5px solid #555;
+  }
+
+  p {
+    color:#800080;
+    font-style: italic;
+  }
+
+  h1 {
+    color:yellow; text-align: center;
+  }
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
